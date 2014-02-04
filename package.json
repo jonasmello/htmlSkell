@@ -1,0 +1,23 @@
+{
+  "name": "Fluor",
+  "version": "0.0.1",
+  "description": "basic startkit frontend with style",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wagnermoschini/fluor.git"
+  },
+  "author": "Wagner Moschini",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-watch": "~0.5.1",
+    "grunt-contrib-compass": "~0.4.1",
+    "bower": "~1.2.8"
+  }
+}

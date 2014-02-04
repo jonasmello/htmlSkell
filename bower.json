@@ -1,0 +1,17 @@
+{
+  "name": "fluor",
+  "version": "0.0.1",
+  "homepage": "https://github.com/wagnermoschini/fluor",
+  "authors": [
+    "Wagner Moschini <wagnermoschini@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/js/plugins/",
+    "test",
+    "tests"
+  ]
+}
